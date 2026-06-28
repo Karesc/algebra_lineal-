@@ -52,7 +52,7 @@ section {
     align-items: center;   /* centra verticalmente */
     justify-content: space-between;
     gap: 30px;
-    flex-wrap: wrap;       /* importante para celular */
+    flex-wrap: nowrap;       /* importante para celular */
 }
 
 .unidad-flex .texto{
